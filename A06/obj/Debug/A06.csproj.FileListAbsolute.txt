@@ -1,0 +1,8 @@
+C:\Users\Public\source\repos\A06\A06\bin\Debug\A06.exe.config
+C:\Users\Public\source\repos\A06\A06\bin\Debug\A06.exe
+C:\Users\Public\source\repos\A06\A06\bin\Debug\A06.pdb
+C:\Users\Public\source\repos\A06\A06\obj\Debug\A06.Properties.Resources.resources
+C:\Users\Public\source\repos\A06\A06\obj\Debug\A06.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\A06\A06\obj\Debug\A06.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\A06\A06\obj\Debug\A06.exe
+C:\Users\Public\source\repos\A06\A06\obj\Debug\A06.pdb
