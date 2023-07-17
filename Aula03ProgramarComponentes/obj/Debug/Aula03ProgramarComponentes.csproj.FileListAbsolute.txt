@@ -1,0 +1,10 @@
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.exe.config
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.exe
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\bin\Debug\Aula03ProgramarComponentes.pdb
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.AssemblyReference.cache
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.Properties.Resources.resources
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.GenerateResource.cache
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.csproj.CoreCompileInputs.cache
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.exe
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.pdb
+C:\Users\sara.malavazi\source\repos\Aula03ProgramarComponentes\Aula03ProgramarComponentes\obj\Debug\Aula03ProgramarComponentes.Form1.resources
