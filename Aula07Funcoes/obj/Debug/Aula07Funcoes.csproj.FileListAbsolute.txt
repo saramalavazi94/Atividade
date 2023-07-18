@@ -1,0 +1,10 @@
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\bin\Debug\Aula07Funcoes.exe.config
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\bin\Debug\Aula07Funcoes.exe
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\bin\Debug\Aula07Funcoes.pdb
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.csproj.AssemblyReference.cache
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.Properties.Resources.resources
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.csproj.GenerateResource.cache
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.csproj.CoreCompileInputs.cache
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.exe
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.pdb
+D:\Users\sara.malavazi\source\repos\Aula07Funcoes\Aula07Funcoes\obj\Debug\Aula07Funcoes.Form1.resources
