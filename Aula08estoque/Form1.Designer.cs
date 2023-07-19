@@ -192,6 +192,7 @@
             this.btnDeletar.TabIndex = 2;
             this.btnDeletar.Text = "Deletar PRIMEIRO produto";
             this.btnDeletar.UseVisualStyleBackColor = true;
+            this.btnDeletar.Click += new System.EventHandler(this.btnDeletar_Click);
             // 
             // btnUltimo
             // 
@@ -202,6 +203,7 @@
             this.btnUltimo.TabIndex = 1;
             this.btnUltimo.Text = "Ver ÚLTIMO produto";
             this.btnUltimo.UseVisualStyleBackColor = true;
+            this.btnUltimo.Click += new System.EventHandler(this.btnUltimo_Click);
             // 
             // btnPrimeiro
             // 
@@ -212,6 +214,7 @@
             this.btnPrimeiro.TabIndex = 0;
             this.btnPrimeiro.Text = "Ver PRIMEIRO produto";
             this.btnPrimeiro.UseVisualStyleBackColor = true;
+            this.btnPrimeiro.Click += new System.EventHandler(this.btnPrimeiro_Click);
             // 
             // Form1
             // 

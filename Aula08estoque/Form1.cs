@@ -34,6 +34,38 @@ namespace Aula08estoque
             txtNome.Focus();
         }
 
+        void verProduto( bool primeiro )
+        {
+            string nome;
+            int quantidade;
+
+            if ( primeiro == true )
+            {
+                nome = produtoNome[0];
+                quantidade= produtoQuantidade[0];
+            }
+            else
+            {
+                nome = produtoNome[ produtoNome.Count() - 1 ];
+                quantidade = produtoQuantidade[ produtoQuantidade.Count() - 1 ];
+            }
+
+            MessageBox.Show($"Nome: {nome}, Quantidade: {quantidade}");
+        }
+
+        void removerProduto()
+        {
+            produtoNome.RemoveAt( 0 );
+            produtoQuantidade.RemoveAt( 0 );
+            atualizaInterface();
+
+
+        }
+        
+        
+
+        // -----------------------------------------------------------
+
         private void btnSalvar_Click(object sender, EventArgs e)
         {
             adicionaProduto();
@@ -44,6 +76,22 @@ namespace Aula08estoque
         private void button1_Click(object sender, EventArgs e)
         {
             limpacampos();
+        }
+
+        private void btnPrimeiro_Click(object sender, EventArgs e)
+        {
+            verProduto( true );
+        }
+
+        private void btnUltimo_Click(object sender, EventArgs e)
+        {
+            verProduto( true );
+        }
+
+        private void btnDeletar_Click(object sender, EventArgs e)
+        {
+            removerProduto();
+            atualizaInterface();
         }
     }
 }
