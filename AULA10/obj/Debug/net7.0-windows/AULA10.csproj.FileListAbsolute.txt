@@ -1,0 +1,17 @@
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\bin\Debug\net7.0-windows\AULA10.exe
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\bin\Debug\net7.0-windows\AULA10.deps.json
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\bin\Debug\net7.0-windows\AULA10.runtimeconfig.json
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\bin\Debug\net7.0-windows\AULA10.dll
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\bin\Debug\net7.0-windows\AULA10.pdb
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.Form1.resources
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.AssemblyInfoInputs.cache
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.AssemblyInfo.cs
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.dll
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\refint\AULA10.dll
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.pdb
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\AULA10.genruntimeconfig.cache
+C:\Users\Public\source\repos\Sara\AULA10\AULA10\obj\Debug\net7.0-windows\ref\AULA10.dll
