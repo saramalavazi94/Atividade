@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\bin\Debug\Estacionamento de veículos.exe.config
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\bin\Debug\Estacionamento de veículos.exe
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\bin\Debug\Estacionamento de veículos.pdb
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento de veículos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento de veículos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento_de_veículos.Form1.resources
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento_de_veículos.Properties.Resources.resources
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento de veículos.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento de veículos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento de veículos.exe
+C:\Users\DELL\source\repos\Estacionamento de veículos\Estacionamento de veículos\obj\Debug\Estacionamento de veículos.pdb
